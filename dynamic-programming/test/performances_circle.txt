@@ -1,0 +1,27 @@
+temps_execution_prog_dyn = 0.6s
+temps_execution_branch = 7.5s
+-> prog_dyn est 11 fois plus rapide que le branch and bound 
+
+**** NOM DU FICHIER : knapPI_16_20_1000_1_-2291.opb.txt
+Taille du problème : nb_var = 20
+f_max_dyn = 2291.0
+f_max_branch = 2239.0
+
+**** NOM DU FICHIER : knapPI_16_50_1000_1_-3408.opb.txt
+Taille du problème : nb_var = 50
+f_max_dyn = 3408.0
+f_max_branch = 3408.0
+
+**** NOM DU FICHIER : knapPI_16_100_1000_1_-4400.opb.txt
+Taille du problème : nb_var = 100
+f_max_dyn = 4400.0
+f_max_branch = 4338.0
+
+**** NOM DU FICHIER : knapPI_16_200_1000_1_-5370.opb.txt
+Taille du problème : nb_var = 200
+f_max_dyn = 5370.0
+f_max_branch = 5370.0
+
+
+
+
